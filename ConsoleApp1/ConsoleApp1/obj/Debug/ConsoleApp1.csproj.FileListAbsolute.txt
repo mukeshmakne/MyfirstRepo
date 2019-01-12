@@ -5,3 +5,10 @@ D:\git\VIsual studio\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolve
 D:\git\VIsual studio\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
 D:\git\VIsual studio\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 D:\git\VIsual studio\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\git\MyfirstRepo\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\git\MyfirstRepo\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\git\MyfirstRepo\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\git\MyfirstRepo\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+D:\git\MyfirstRepo\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\git\MyfirstRepo\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\git\MyfirstRepo\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
