@@ -11,7 +11,8 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("First Commit");
-            Console.WriteLine("Secod Commit");
+            Console.WriteLine("Second Commit");
+            Console.WriteLine("Thired Commit");
         }
     }
 }
