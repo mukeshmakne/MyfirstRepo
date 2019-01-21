@@ -13,6 +13,7 @@ namespace ConsoleApp1
             Console.WriteLine("First Commit");
             Console.WriteLine("Second Commit");
             Console.WriteLine("Thired Commit");
+            Console.WriteLine("Forth Commit");
         }
     }
 }

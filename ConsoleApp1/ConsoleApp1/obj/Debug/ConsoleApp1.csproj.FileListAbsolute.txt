@@ -12,3 +12,9 @@ D:\git\MyfirstRepo\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAs
 D:\git\MyfirstRepo\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
 D:\git\MyfirstRepo\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 D:\git\MyfirstRepo\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\C48147\Source\Repos\MyfirstRepo2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\C48147\Source\Repos\MyfirstRepo2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\C48147\Source\Repos\MyfirstRepo2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\C48147\Source\Repos\MyfirstRepo2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\C48147\Source\Repos\MyfirstRepo2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\C48147\Source\Repos\MyfirstRepo2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
